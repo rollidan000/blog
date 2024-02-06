@@ -12,11 +12,11 @@ header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
-    github:  ## required
+    github:  rollidan000 ## required
     twitter: 
     facebook: 
-    email: 
-    linkedin: 
+    email: rollidan000@gmail.com
+    linkedin: daniel-rollins-3ba363162
     youtube: 
     tumblr: 
     website: 
